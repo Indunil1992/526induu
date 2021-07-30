@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "526Induu.js",
         "cursor": {
-          "lineNumber": 3,
-          "column": 15
+          "lineNumber": 5,
+          "column": 26
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1627646576716
+    "lastSave": 1627647260154
   },
   "VCS_STATE": {
     "provider": "GitHub",
